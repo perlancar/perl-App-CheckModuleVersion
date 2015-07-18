@@ -1,5 +1,13 @@
 Revision history for App-CheckModuleVersion
 
+0.02     2015-07-18 (PERLANCAR)
+
+         - No functional changes.
+
+         - [dist] Rebuild to add prereq to script backend module
+           Module::CheckVersion.
+
+
 0.01     2015-07-10 (PERLANCAR)
 
          - First release.

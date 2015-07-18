@@ -1,5 +1,12 @@
 Revision history for App-CheckModuleVersion
 
+0.03    2015-07-18 (PERLANCAR)
+
+	- No functional changes.
+
+	- [dist] Reorder plugin so script gets proper POD.
+
+
 0.02     2015-07-18 (PERLANCAR)
 
          - No functional changes.

@@ -1,5 +1,11 @@
 Revision history for App-CheckModuleVersion
 
+0.04    2015-07-20 (PERLANCAR)
+
+	- Switch CLI script from Perinci::CmdLine::Lite to
+	  Perinci;:CmdLine::Inline.
+
+
 0.03    2015-07-18 (PERLANCAR)
 
 	- No functional changes.

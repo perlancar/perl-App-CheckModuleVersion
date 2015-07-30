@@ -1,5 +1,13 @@
 Revision history for App-CheckModuleVersion
 
+0.06    2015-07-30 (PERLANCAR)
+
+        - No functional changes.
+
+        - [build] Rebuild with updated Perinci::CmdLine::Dump to let
+          Pod::Weaver::Plugin::Rinci insert more stuffs to the POD.
+
+
 0.05    2015-07-20 (PERLANCAR)
 
 	- No functional changes.

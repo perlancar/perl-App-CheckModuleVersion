@@ -1,5 +1,15 @@
 Revision history for App-CheckModuleVersion
 
+0.08    2015-07-30 (PERLANCAR)
+
+        - No functional changes.
+
+        - [build] Rebuild with updated DZP:GenPericmdScript which now correctly
+          adds prereq to Perinci::CmdLine::Inline for the develop phase and not
+          build phase, so users do not need Perinci::CmdLine::Inline when
+          installing this distribution.
+
+
 0.07    2015-07-30 (PERLANCAR)
 
         - No functional changes.
